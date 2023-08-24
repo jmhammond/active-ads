@@ -73,7 +73,7 @@ In the following questions, assume <m>U=\{1,2,3,4,5\}</m> with the ordering as l
 		<ol marker="(a)">
 			<li><p>What are the bit strings for the empty set and for <m>U</m>?</p></li>
 			<li><p>What are the bit strings for <m>A=\{1,2,3\}</m> and <m>B=\{1,3,5\}</m>?</p></li>
-			<li><p>What are the general rules for determining the the bit strings for <m>A\cap B</m> and <m>A \cup B</m>?  What their bit strings in this particular case?</p> </li></ol>
+			<li><p>What are the general rules for determining the the bit strings for <m>A\cap B</m> and <m>A \cup B</m>?  What are their bit strings in this particular case?</p> </li></ol>
 </p></statement></exercise>
 		</exercisegroup></exercises>
 </section>
