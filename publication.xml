@@ -20,7 +20,7 @@ along with PreTeXt.  If not, see <http://www.gnu.org/licenses/>.
 <!-- "structural" version, which is  "publication-structural.xml" -->
 
 <publication>
-
+    <directories external="/images" generated="/generated-assets" />
     <!-- EPUB-Specific Options -->
     <!-- Specification of image locations, relative to main source file -->
     <epub cover="images/cover_active-ads.png" image-directory="images"/>

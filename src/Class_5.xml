@@ -39,7 +39,7 @@
 </p>
 <figure xml:id="fig-lattice-path-6">
        			<caption>A lattice path</caption>
-               <image width="50%" source="images/fig-lattice-path-6.png">
+               <image width="50%" source="assets/fig-lattice-path-6.png">
                     <description>An example of a lattice path</description>
                 </image>
       </figure></statement></exercise>
@@ -50,12 +50,12 @@
 <section xml:id="handouts-5"><title>Some Lattices</title>
 <p>Here are a couple of lattices for you to doodle with.</p>
 		<figure><caption/>
-		 <image width="65%" source="images/graphpaper8.png">
+		 <image width="65%" source="assets/graphpaper8.png">
 			  <description>An 8 by 8 lattice.</description>
 		 </image>
 		 </figure>
 		<figure><caption/>
-		 <image width="65%" source="images/graphpaper8.png">
+		 <image width="65%" source="assets/graphpaper8.png">
 			  <description>Another 8 by 8 lattice.</description>
 		 </image>
 		 </figure>

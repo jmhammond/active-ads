@@ -42,3 +42,4 @@ temp.org
 /generated-assets/
 .vscode/*
 /output/
+*.html

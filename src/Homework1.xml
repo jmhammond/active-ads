@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="Homework_1" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Counting: Product Rule and Permutations</title>
+<idx></idx>
+<section xml:id="hw1"><title>Biweekly Homework 1</title>
+<p>Complete the following exercises, writing out <em>carefully</em> written solutions. These are all questions that we discussed either in the daily prep or during our classes.</p>
+<exercises>
+<exercise>
+    <statement><p>What base 10 number is equal to <m>101000010_2</m>?</p></statement></exercise>
+
+    <exercise>
+<statement><p>What is the base 2 representation of 911?</p></statement></exercise>
+<exercise ><statement><p>Find two sets <m>A</m> and <m>B</m> for which <m>|A| = 5</m>, <m>|B| = 6</m>, and <m>|A\cup B| = 9</m>. What is <m>|A \cap B|</m>?</p>
+</statement></exercise>
+<exercise><statement><p> Let <m>A = \{0, 2, 3\}</m>, <m>B = \{2, 3\}</m>, <m>C = \{1, 5, 9\}</m>, <m>D = \{3, 2\}</m>, and <m>E = \{2, 3, 2\}</m>. Assume that the universal set is <m>U = \{0, 1, 2, . . . , 9\}</m>. Determine which of the
+    following are true. Give reasons for your decisions. 
+    <ol cols="2" marker="(a)">
+    <li><p>  <m>A = B</m> </p></li>
+    <li><p>  <m>B = C</m> </p></li>
+    <li><p>  <m>B = D</m> </p></li>
+    <li><p>  <m>E=D</m></p></li>
+    <li><p>  <m>A\cap B = B\cap A</m></p></li>
+    <li><p>  <m>A \cup  B = B \cup  A</m> </p></li>
+    <li><p>  <m>A-B = B-A</m> </p></li>
+      </ol>
+    </p></statement></exercise>
+    <exercise>	<li><p>Let <m>X = \{n \in \mathbb{N} \mid 10 \leq n \lt 20\}</m>.  Find examples of sets with the properties below and very briefly explain why your examples work.
+        <ol marker="(a)">
+              <li> <p> A set <m>A \subseteq \mathbb{N}</m> with <m>\lvert A \rvert = 10</m> such that <m>X - A = \{10, 12, 14\}</m>.</p></li>
+              <li><p> A set <m>B \in \mathcal{P}(X)</m> with <m>\lvert B\rvert = 5</m>.</p></li>
+             <li>  <p> A set <m>C \subseteq \mathcal{P}(X)</m> with <m>\lvert C\rvert = 5</m>.</p> </li>
+              <li> <p>A set <m>D \subseteq X \times X</m> with <m>\lvert D\rvert = 5</m>. </p> </li>
+              <li> <p> A set <m>E \subseteq X</m> such that <m>\lvert E\rvert \in E</m>.</p> </li>
+            </ol>
+          </p>
+    </li></exercise>
+    <exercise>
+        <p> Are there sets <m>A</m> and <m>B</m> such that <m>|A| = |B|</m>,
+            <m>|A\cup B| = 10</m>, and <m>|A\cap B| = 5</m>?  Explain.
+               </p>
+    </exercise>
+    </exercises>
+</section>
+</chapter>	
