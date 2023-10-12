@@ -53,50 +53,6 @@ explain why.</p>
 <exercise><statement><p>Let <m>A=\left(\begin{array}{cc} 1 &amp; a\\ 0 &amp; 1 \end{array}\right)</m> and <m>B=\left(\begin{array}{cc} 1 &amp; b\\ 0 &amp; 1 \end{array}\right)</m>.  Compute the product <m>A B</m>.  Based on this result, what is <m>A^{-1}</m>. 
 			</p></statement></exercise>
 			
-<exercise><idx>Transpose of a matrix</idx><statement>
-				<p>If <m>A</m> is a an <m>m \times n</m> matrix, we define the transpose of A to be the <m>n \times m</m> matrix whose rows are the columns of <m>A</m>.  For example, the transpose of 
-					<me>\left(
-							\begin{array}{ccc}
-									 1 &amp;2 &amp;3 \\
-									 4 &amp;5 &amp;6 \\
-							\end{array}
-									\right) \textrm{  is  }
-									\left(
-										\begin{array}{cc}
-										 1 &amp;4 \\
-										 2 &amp;5 \\
-										 3 &amp;6 \\
-										\end{array}
-										\right).</me>
-						The notation <m>A^t</m> is used for the transpose of <m>A</m>.
-			          <ol marker="(a)">
-			          		<li><p>If <m>A</m> is an <m>m \times n</m> matrix, are the products <m>A A^t</m>
-			          		 and <m>A^t A </m> defined?  What are the orders of the products that are 
-			          		 defined?</p></li>
-			          		 <li><p>Given the following matrix, what useful information might you get
-			          		  from the products <m>A A^t</m> or <m>A^t A</m>.?
-			          		<me>A=\left(
-									\begin{array}{ccccc}
-									 16 &amp;11 &amp;4 &amp;3 &amp;15 \\
-									 16 &amp;17 &amp;13 &amp;12 &amp;6 \\
-									\end{array}
-									\right) </me>
-							</p></li>
-							</ol></p>
-				</statement></exercise>
-			
-<exercise><statement><p> Prove by induction that for <m>n \geq 1</m>, <m>\left(
-				\begin{array}{cc}
-				 a &amp; 0 \\
-				 0 &amp; b \\
-				\end{array}
-				\right)^n= \left(
-				\begin{array}{cc}
-				 a^n &amp; 0 \\
-				 0 &amp; b^n \\
-				\end{array}
-				\right)</m>.
-				</p></statement></exercise>
 			
 <exercise><statement><p>In this exercise, we propose to show how matrix multiplication is a natural operation.  Suppose a bakery produces bread, cakes and pies every weekday, Monday through Friday. Based on past sales history, the bakery produces various numbers of each product each day, summarized in the <m>5 \times 3</m> matrix <m>D</m>.  It should be noted that the order could be described as <q>number of days by number of products.</q>   For example, on Wednesday (the third day) the number of cakes (second product in our list) that are produced  is  <m>d_{3,2} = 4</m>.
 				 <me>D =\left(
@@ -116,7 +72,7 @@ explain why.</p>
 				1 &amp; 1 &amp; 1  \\
 				\end{array}
 				\right)</me>
-				These amounts are <q>made up</q>, so don't used them to do your own baking!</p>
+				These amounts are <q>made up</q>, so don't use them to do your own baking!</p>
 				<p>
 				<ol  marker="(a)">
 						<li><p>How many cups of flour will the bakery need every Monday?  Pay close attention to how you compute your answer and the units of each number.</p></li>
