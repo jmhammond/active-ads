@@ -16,7 +16,7 @@
         <idx>Solutions</idx>
  </solutions>
  -->
- <xi:include href="./references.xml" />
+ <xi:include href="./references.ptx" />
 
 <!-- 
 
@@ -43,4 +43,3 @@
 		 <index-list />
 </index>
 </backmatter>
-
